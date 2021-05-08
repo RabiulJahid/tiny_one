@@ -1,0 +1,257 @@
+/*common css**/
+body {
+    font-family: "PT Sans", sans-serif;
+    color: #313841;
+}
+/*HEADER START*/
+
+header {
+    background-color: #fcdb00;
+    padding: 15px 0;
+}
+img.logo {
+}
+/*right menu start*/
+div.Menu {
+}
+div.Menu ul li a {
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+    padding: 0 41px !important;
+    transition: 0.3s;
+}
+div.Menu ul li:last-child a {
+    padding-right: 0 !important;
+}
+
+div.Menu ul li a:hover {
+    color: white !important;
+    border-bottom: 1px solid;
+}
+/*right menu end*/
+/*HEADER END*/
+
+/*SLIDER START*/
+section.slider {
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+
+/*carousel indicator start*/
+.amar {
+    bottom: -80px;
+}
+.amar [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.amar .active {
+    background-color: #d41456fc;
+}
+/*caarousel inner start*/
+
+/*text*/
+div.s_text {
+    margin-top: 70px;
+}
+div.s_text h1 {
+    margin-bottom: 20px;
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+}
+div.s_text h3 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #313841;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+div.s_text p {
+    margin-bottom: 35px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 22px;
+}
+
+ul.s_icon li i {
+    font-size: 42px;
+    color: #010101;
+    margin-right: 30px;
+}
+/*slider image*/
+div.s_image {
+}
+
+div.s_image img {
+    margin-top: 30px;
+}
+/*SLIDER END*/
+
+/*FEATURES SRART*/
+section.featueRe {
+    padding-top: 100px;
+    padding-bottom: 130px;
+}
+div.common_title {
+}
+h1.common_h1 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+    margin-bottom: 15px;
+}
+p.common_p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #313841;
+    margin-bottom: 0;
+}
+/*SINGLE START*/
+div.m_top_70 {
+    margin-top: 75px;
+}
+div.tf_iCons {
+    font-size: 41px;
+    text-align: center;
+}
+
+/*TEXT**/
+div.tf_Text {
+}
+h2.tf_h2 {
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 22px;
+    color: #010101;
+}
+p.tf_p {
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #898989;
+}
+/*FEATURES END*/
+/*KEEP IN TOUCH START*/
+section.keep_toucH {
+    background-color: #010101;
+    padding-top: 100px;
+}
+/*UP KEEP START*/
+h1.keep_H1 {
+    font-weight: 700;
+    font-size: 32px;
+    color: #fcdb00;
+    margin-bottom: 0;
+    padding: 12px;
+}
+
+p.keep_P {
+    color: #898989;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 25px;
+    margin-bottom: 40px;
+}
+/*DOWN FORM START*/
+div.Mar_gin {
+}
+div.forM {
+}
+input.BoX {
+    padding: 10px;
+}
+/*SUBMIT*/
+div.sub_mit {
+}
+button.B_submt {
+    width: 130px;
+    height: 45px;
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    transition: 0.3s;
+}
+button.B_submt:hover {
+    background-color: white;
+}
+/*KEEP IN TOUCH END*/
+/*FOOTER START*/
+section.foooter {
+    background-color: #010101;
+    padding-top: 75px;
+}
+/*FOOTER TOP*/
+div.S_icoN {
+}
+ul li a {
+    font-size: 35px;
+    padding: 12px;
+}
+
+ul li i {
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    color: #010101;
+    background-color: #fcdb00;
+    transition: 0.3s;
+}
+ul li i:hover {
+    background-color: white;
+}
+
+/*FOOTER LAST PART*/
+section.footer_Last {
+    margin-top: 0;
+    background-color: #010101;
+    padding-top: 130px;
+    padding-bottom: 140px;
+}
+div.address_S {
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff;
+}
+address.add_rs {
+    margin-bottom: 0;
+}
+
+/*TEXT ONE*/
+
+div.Tt_1 {
+    margin-left: 45px;
+}
+
+ul.f_text li a {
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 0;
+}
+/*TEXT TWO*/
+
+div.Tt_2 {
+    margin-left: 48px;
+}
+
+/*TEXT THREE*/
+
+div.Tt_3 {
+    margin-left: 40px;
+}
+
+/*TEXT FOUR*/
+
+div.Tt_4 {
+    margin-left: 50px;
+}

@@ -1,0 +1,375 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*HEADER START*/
+    img.logo {
+        width: 88%;
+    }
+
+    div.Menu ul li a{
+          text-align: right;
+          padding: 0 0px !important;
+          margin-top: 10px;
+    }
+
+    div.Menu ul li a:hover{
+        color: white !important;
+        border: none;
+    }
+    /*HEADER END*/
+    /*slider*/
+    section.slider {
+        background-color: #fcdb00;
+        padding-bottom: 80px;
+    }
+
+    /*INDICATOR*/
+    .amar .active {
+        opacity: 1;
+        margin-bottom: 21px;
+    }
+    .amar [data-bs-target] {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+    }
+    /*CAROSOUL INNER*/
+    div.s_text {
+        margin-top: 10px;
+    }
+    div.s_text h1 {
+        margin-bottom: 10px;
+        font-size: 28px;
+    }
+    div.s_text h3 {
+        margin-bottom: 10px;
+        font-size: 22px;
+        word-spacing: 0px;
+        letter-spacing: 0px;
+    }
+    div.s_text p {
+        margin-bottom: 20px;
+        font-size: 17px;
+        word-spacing: 1px;
+        line-height: 24px;
+    }
+    ul.s_icon li i {
+    font-size: 25px;
+}
+/*FEATURE*/
+section.featueRe {
+    padding-top: 50px !important;
+    padding-bottom: 30px !important;
+  }
+  h1.common_h1 {
+    font-size: 27px;
+    margin-bottom: 10px;
+  }
+  p.common_p {
+    font-size: 18px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+    line-height: 22px;
+  }
+  div.m_top_70 {
+    margin-top: 50px;
+      }
+h2.tf_h2 {
+    text-align: center;
+     }
+ p.tf_p {
+    text-align: center;
+      }
+
+    /*KEEP IN TOUCH START*/
+  section.keep_toucH {
+    padding-top: 60px;
+      }
+      /*UP KEEP START*/
+    h1.keep_H1 { 
+    font-size: 28px;
+    margin-bottom: 0;
+    padding: 10px;
+      }
+    p.keep_P { 
+    word-spacing: 1px; 
+    line-height: 21px;
+      }
+
+  /* DOWN FORM START*/
+  input.BoX {
+    padding: 6px;
+    margin-bottom: 12px;
+       }
+       /*SUBMIT*/
+div.sub_mit {
+    text-align: center;
+     }
+     
+     /*FOOTER START*/
+     /*FOOTER TOP*/
+div.S_icoN {
+    margin-top: -30px;
+    }
+  ul li a {
+    font-size: 30px;
+    padding: 2px;
+      }
+   ul li i {
+    width: 36px;
+    height: 30px;
+     }
+ 
+   /*FOOTER LAST PART*/
+   section.footer_Last {
+    padding-top: 70px;
+    padding-bottom: 60px;
+      }
+   /*ADDRESS*/
+   address.add_rs {
+    margin-bottom: 30PX;
+    text-align: center;
+      }
+  div.Tt_1 {
+    text-align: center;
+    }
+  div.Tt_2 {
+    text-align: center;
+    }
+  div.Tt_3{
+    text-align: center;
+    margin-top: 20px;
+    }
+  div.Tt_4 {
+    text-align: center;
+    margin-top: 20px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*HEADER START*/
+    img.logo {
+        width: 88%;
+    }
+
+    div.Menu ul li a {
+        text-align: right;
+        padding: 0 0px !important;
+    }
+
+    div.Menu ul li a:hover {
+        color: white !important;
+        border: none;
+    }
+    /*HEADER END*/
+
+    /*INDICATOR*/
+    .amar .active {
+        opacity: 1;
+        margin-bottom: 20px;
+    }
+    .amar [data-bs-target] {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+    }
+    /*CAROSOUL INNER*/
+    div.s_text {
+        margin-top: 10px;
+    }
+    div.s_text h1 {
+        margin-bottom: 15px;
+        font-size: 30px;
+    }
+    div.s_text h3 {
+        margin-bottom: 10px;
+        word-spacing: 1px;
+        letter-spacing: 0px;
+    }
+div.s_text p {
+        margin-bottom: 20px;
+        font-size: 16px;
+        word-spacing: 1px;
+        line-height: 24px;
+    }
+ul.s_icon li i {
+        font-size: 35px;
+        margin-right: 15px;
+    }
+    /*FEATURES*/
+section.featueRe {
+    padding-top: 50px !important;
+    padding-bottom: 70px !important;
+  }
+  h1.common_h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  p.common_p {
+    font-size: 17px;
+     }
+div.m_top_70 {
+    margin-top: 60px;
+      }
+     div.tf_iCons {
+    font-size: 30px;
+  }
+  h2.tf_h2 {
+    margin-bottom: 15px;  
+    font-size: 21px;
+   }
+   p.tf_p {
+    letter-spacing: 0px;
+    line-height: 20px;
+   }
+    /*KEEP IN TOUCH START*/
+  section.keep_toucH {
+    padding-top: 60px;
+      }
+      /*UP KEEP START*/
+    h1.keep_H1 { 
+    font-size: 28px;
+    margin-bottom: 0;
+    padding: 10px;
+      }
+    p.keep_P { 
+    word-spacing: 1px; 
+    line-height: 21px;
+      }
+
+  /* DOWN FORM START*/
+input.BoX {
+    padding: 6px;
+    margin-bottom: 12px;
+       }
+       /*SUBMIT*/
+div.sub_mit {
+    text-align: center;
+     }
+
+    /*FOOTER START*/
+    /*FOOTER TOP*/
+div.S_icoN {
+    margin-top: -25px;
+    }
+  ul li a {
+    font-size: 33px;
+    padding: 6px;
+      }
+  ul li i {
+    width: 41px;
+    height: 40px;
+     }
+ 
+  /*FOOTER LAST PART*/
+   section.footer_Last {
+    padding-top: 70px;
+    padding-bottom: 60px;
+      }
+     /*ADDRESS*/
+  address.add_rs {
+     margin-bottom: 30PX;
+    text-align: center;
+  }
+ div.Tt_1 {
+    text-align: center;
+    }
+  div.Tt_2 {
+    text-align: center;
+    }
+  div.Tt_3{
+    text-align: center;
+    margin-top: 20px;
+    }
+  div.Tt_4 {
+    text-align: center;
+    margin-top: 20px;
+    }
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /*HEADER START*/
+   div.Menu ul li a {
+      margin-top: 10px;
+      text-align: right;
+      padding: 0px !important;
+}
+ div.Menu ul li a:hover {
+        color: white !important;
+        border: none;
+    }
+
+
+    /*FEATURES START*/
+section.featueRe {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+  div.m_top_70 {
+    margin-top: 45px;}
+
+   /*TEXT*/
+   h2.tf_h2 {
+    margin-bottom: 6px;
+
+  }
+  /*KEEP IN TOUCH START*/
+  section.keep_toucH {
+    padding-top: 70px;
+      }
+
+   /*UP KEEP START*/
+   p.keep_P {
+    line-height: 23px;
+    font-size: 18px;
+   }
+   /*FOOTER START*/
+   /*FOOTER TOP*/
+   ul li a {
+    font-size: 36px;
+    padding: 7px;
+      }
+    ul li i {
+    width: 46px;
+    height: 44px;
+     }
+}
+ 
+   /*FOOTER END/
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+   /*FOOTER START*/
+   /*FOOTER TOP*/
+   ul li a {
+    font-size: 38px;
+    padding: 12px;
+      }
+    ul li i {
+    width: 46px;
+    height: 44px;
+     }
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+  /*FOOTER START*/
+   /*FOOTER TOP*/
+   ul li a {
+    font-size: 40px;
+    padding: 12px;
+      }
+    ul li i {
+    width: 46px;
+    height: 47px;
+     }
+}
